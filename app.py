@@ -14,7 +14,7 @@ with col1:
       st.write(' - 학습 데이터 출처 :https://www.kaggle.com/datasets/himanshunakrani/iris-dataset?select=iris.csv')
       st.write(' - 훈련    데이터 : 105건')
       st.write(' - 테스트 데이터 : 45건')
-      st.write(' - 모델 정확도 : 0.97')
+      st.write(' - 모델 정확도 : 0.98')
 # 3.데이터시각화
 with col2:
       st.subheader('데이터시각화1')
