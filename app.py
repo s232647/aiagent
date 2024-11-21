@@ -28,13 +28,13 @@ with col3:
       st.image('시각화2.png')    # 이미지 불러오기
 with col4:
       st.subheader('데이터시각화3')
-      st.image('시각화2.png')    # 이미지 불러오기
+      st.image('시각화3.png')    # 이미지 불러오기
 with col5:
       st.subheader('데이터시각화4')
-      st.image('시각화2.png')    # 이미지 불러오기
+      st.image('시각화4.png')    # 이미지 불러오기
 with col6:
       st.subheader('데이터시각화5')
-      st.image('시각화2.png')    # 이미지 불러오기
+      st.image('시각화5.png')    # 이미지 불러오기
       
 # 4. 모델 활용
 st.subheader('모델 활용')
